@@ -8,5 +8,5 @@ These are source files for the Envato Tuts+ tutorial: [Quick Tip: Create a Custo
 
 Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: http://code.tutsplus.com/tutorials/quick-tip-create-a-custom-quick-settings-tile-for-android--cms-30318
+[published url]: http://code.tutsplus.com/tutorials/create-a-custom-quick-settings-tile-for-android--cms-30318
 [instructor url]: https://tutsplus.com/authors/ashraff-hathibelagal
